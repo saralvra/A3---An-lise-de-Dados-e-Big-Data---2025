@@ -1,0 +1,13 @@
+variavel,descricao,tipo,subtipo
+user_id,Chave única do usuário,qualitativo,nominal
+gender,Gênero do usuário (Feminino/Masculino/Outro),qualitativa,nominal
+age,Idade do Usuário,quantitativa,contínua
+country,Localização do usuário pelo país,qualitativa,nominal
+subscription_type,Tipo de assinatura do usuário (Plano gratuito/Família/Estudante) ,qualitativa,nominal
+listening_time,Minutos gastos ouvindo por dia, quantitativa,contínua
+songs_played_per_day,Número de músicas tocadas diariamente,qualitativa,discreta
+skip_rate,Percentual de músicas puladasv,quantitativa,contínua
+ads_listened_per_week,Número de anúncios ouvidos por semana,quantitativa,discreta
+offline_listening,Uso do modo offline (Sim/Não),qualitativo (binário),nominal
+offline_listening,Uso do modo offline (Sim/Não),qualitativo (binário),nominal
+is_churned,"Usuário cancelou (0 = ativo, 1 = churned)",qualitativo (binário),nominal
