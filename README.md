@@ -20,6 +20,7 @@ Ao longo do estudo, são aplicadas técnicas de **limpeza, tratamento e visualiz
 
 ### 👥 Membros do Grupo  
 -Sara F. de Lara 
+-Ana Julia Bernardo Lazaro
 ## Dicionário de dados
 
 Arquivo em formato .csv presente no diretório ../data/dictionary.csv
