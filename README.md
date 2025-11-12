@@ -20,7 +20,34 @@ Ao longo do estudo, são aplicadas técnicas de **limpeza, tratamento e visualiz
 
 ### 👥 Membros do Grupo  
 -Sara F. de Lara 
+
 -Ana Julia Bernardo Lazaro
+
 ## Dicionário de dados
 
 Arquivo em formato .csv presente no diretório ../data/dictionary.csv
+
+## Configuração do Ambiente de Trabalho Usando o VsCode 
+
+### Requisitos
+
+1. É necessário o [Python 3](https://www.python.org/downloads/) instalado na máquina.
+
+2. Com o Python instalado, no terminal, instale as bibliotecas (podem ser instaladas separadamente): 
+
+```bash
+pip install pandas matplotlib scikit-learn numpy
+```
+3.  Crie uma pasta , abra as extensões do VsCode e instale a extensão do Jupyter
+
+
+4. Na mesma pasta, clone o repositório
+```bash
+git clone https://github.com/saralvra/A3---An-lise-de-Dados-e-Big-Data---2025.git
+```
+
+
+
+
+
+
