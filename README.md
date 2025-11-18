@@ -43,7 +43,7 @@ pip install pandas matplotlib scikit-learn numpy
 
 4. Na mesma pasta, clone o repositório
 ```bash
-git clone https://github.com/saralvra/A3---An-lise-de-Dados-e-Big-Data---2025.git
+git clone https://github.com/saralvra/A3-Analise-de-Dados-e-BigData-2025-2.git
 ```
 
 
