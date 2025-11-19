@@ -14,7 +14,7 @@ Ao longo do estudo, são aplicadas técnicas de **limpeza, tratamento e visualiz
 - Tratar e preparar os dados para uso em modelos de Machine Learning.  
 - Treinar e avaliar diferentes algoritmos de classificação para prever o *churn*.  
 - Comparar o desempenho dos modelos utilizando métricas de avaliação adequadas.  
-- Gerar insights que possam apoiar decisões estratégicas relacionadas à retenção de usuários.  
+
 
 ---
 
